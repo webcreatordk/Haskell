@@ -123,7 +123,8 @@ elementSquare []=[]
 upperCase (x:xs)=(toUpper x):(upperCase xs)
 upperCase [] = []
 
---lambda example
+--lambda examples
+
 
 
 
